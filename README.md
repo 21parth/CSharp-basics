@@ -1,2 +1,2 @@
 # CSharp-basics
-This is my repo for basic c# concepts.
+Repository for basics of c#.
