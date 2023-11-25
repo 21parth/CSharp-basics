@@ -8,4 +8,4 @@
 ## Internal
 - We can access internal classes in the same assembly or you can say same class library or in same dll.
 ## Internal protected
-- It is weird. same assembly and derived class. what??
+- It is weird. same assembly and derived class. Wait what??
